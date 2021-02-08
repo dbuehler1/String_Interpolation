@@ -1,0 +1,13 @@
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\bin\Debug\netcoreapp3.1\AssignmentThree.exe
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\bin\Debug\netcoreapp3.1\AssignmentThree.deps.json
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\bin\Debug\netcoreapp3.1\AssignmentThree.runtimeconfig.json
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\bin\Debug\netcoreapp3.1\AssignmentThree.runtimeconfig.dev.json
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\bin\Debug\netcoreapp3.1\AssignmentThree.dll
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\bin\Debug\netcoreapp3.1\AssignmentThree.pdb
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.csprojAssemblyReference.cache
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.AssemblyInfoInputs.cache
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.AssemblyInfo.cs
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.dll
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.pdb
+C:\Users\wisfa\Desktop\C# Projects\AssignmentThree\obj\Debug\netcoreapp3.1\AssignmentThree.genruntimeconfig.cache
